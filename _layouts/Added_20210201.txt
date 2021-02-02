@@ -1,4 +1,10 @@
 This file was added locally
+<<<<<<< HEAD
 This line is added from GIT
 Added another line locally ----
 added line from local
+=======
+
+
+Added another line locally ----
+>>>>>>> mod local file resolve conflict
